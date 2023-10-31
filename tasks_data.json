@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Test2",
+        "date": "2023-10-01",
+        "time": "10:00 AM",
+        "video_path": "C:/Users/Atlas X/PycharmProjects/DataAnalysisBinance/Tools/userLVL/lower_vid_res/player/player/path_to_your_output_video2.mp4",
+        "color": "#ff0b17",
+        "id": 0
+    },
+    {
+        "title": "Test2",
+        "date": "2023-10-01",
+        "time": "9:00 AM",
+        "video_path": "C:/Users/Atlas X/PycharmProjects/DataAnalysisBinance/Tools/userLVL/lower_vid_res/player/player/path_to_your_output_video2.mp4",
+        "color": "#ff0b17",
+        "id": 1
+    }
+]
